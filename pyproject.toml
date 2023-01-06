@@ -3,7 +3,7 @@ requires = ["setuptools >= 61.1.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "optuna"
+name = "optuna-pyprojecttoml"
 description = "A hyperparameter optimization framework"
 readme = "README.md"
 license = {file = "LICENSE"}
